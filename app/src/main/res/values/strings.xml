@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">FWGCPuzzle</string>
+    <string name="app_name">Puzzle</string>
+    <string name="fwgc">GO!</string>
+    <string name="puzzle">8 Puzzle</string>
+    <string name="welcome">Welcome to Farmer,Wolf,Goat and Cabbage Puzzle</string>
+    <string name="description">A farmer and his wolf,goat and cabbage come to the edge of a river they wish to cross.There is a boat at the river\'s edgethat only the farmer can row.The farmer can take at most one other object beside himself on a crossing, but if the wolf is ever left with the goat, the wolf will eat goat; similarly if the goat is left with cabbage, the goat will eat cabbage. Desvise a sequence of crossing of the river so that all four charactersarrive safety on the other side.</string>
+    <string name="play">Play</string>
+    <string name="f">F</string>
+    <string name="w">W</string>
+    <string name="g">G</string>
+    <string name="c">C</string>
+    <string name="path" ></string>
+    <string name="wolf">Wolf</string>
+    <string name="goat">Goat</string>
+    <string name="cabbage">Cabbage</string>
+    <string name="himself">Himself</string>
+    <string name="reset">Reset</string>
 </resources>
