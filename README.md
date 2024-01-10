@@ -42,10 +42,9 @@ Include screenshots or gifs showcasing the gameplay and different stages of the 
 
 ## Contributing
 
-Contributions to enhance the puzzle, improve the user interface, or fix bugs are welcome. Please follow the contribution guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+We welcome and appreciate contributions to enhance the puzzle, improve the user interface, fix bugs, or provide suggestions for new features.
 
 ## License
 
-This project is licensed under the [Your License Name] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
 
-Feel free to customize the README further based on your specific implementation and requirements.
