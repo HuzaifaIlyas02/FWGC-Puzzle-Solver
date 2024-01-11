@@ -36,9 +36,6 @@ The Farmer, Wolf, Goat, and Cabbage Puzzle tasks you with safely ferrying a farm
 - Follow the rules of the puzzle to avoid harmful pairings.
 - Successfully complete the puzzle to receive completion statistics.
 
-## Screenshots
-
-Include screenshots or gifs showcasing the gameplay and different stages of the puzzle.
 
 ## Contributing
 
