@@ -23,7 +23,7 @@ The Farmer, Wolf, Goat, and Cabbage Puzzle tasks you with safely ferrying a farm
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/HuzaifaIlyas02/FWGC-Puzzle-Solver
+    git clone git@github.com:HuzaifaIlyas02/FWGC-Puzzle-Solver.git
     ```
 
 2. Open the project in Android Studio.
